@@ -42,13 +42,11 @@ The goal is to track key performance indicators (KPIs), identify customer prefer
 1. Open `pizza_sales.sql` in **SQL Server Management Studio** (or any SQL client) to view queries.  
 2. Open `pizza_sales_dashboard.xlsx` in **Excel** to view the Excel-based dashboard.  
 3. Open `pizza_sales_dashboard.pbix` in **Power BI Desktop** to explore the interactive dashboard.  
-4. Refer to the `Screenshots/` folder for quick previews of the dashboards. 
+4. Refer to the `Screenshots/` folder for quick previews of the dashboards.
 
 ## 📸 Dashboard Preview
 Here are some snapshots of the Pizza Sales Dashboard:
-[image alt](Dashboard image.png)
-
-
+<img width="569" height="313" src="" />
 ## ✅ Outcome
 This dashboard helps stakeholders:  
 - Understand customer buying patterns  
