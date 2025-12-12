@@ -45,7 +45,7 @@ The goal is to track key performance indicators (KPIs), identify customer prefer
 4. Refer to the `Screenshots/` folder for quick previews of the dashboards.
 
 ## 📸 Dashboard Preview
-Here are some snapshots of the Pizza Sales Dashboard:
+
 <img width="569" height="313" src="https://github.com/SuryaGanesh-60/Pizza-Sales-Analysis/blob/main/Dashboard%20image.png" />
 
 
